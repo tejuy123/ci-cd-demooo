@@ -1,7 +1,1 @@
-{
-  "name":"ci-cd-demooo";
-  "version":"1.0.0";
-  "scripts":{
-    "test":"echo 'Running sample test...' "
-  }
-}
+console.log("Hello from Github Actions")
